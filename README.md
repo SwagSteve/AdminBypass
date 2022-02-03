@@ -5,7 +5,7 @@
 
 ##**This Is A Simple Plugin That Allows Admins To Bypass The Server Limit For Players Online!**
 
-![alt text](https://proxy.spigotmc.org/b9892e2997b7286fda5fed2c4bd6690f8415dbf8?url=https%3A%2F%2Fimgur.com%2F88iduRV.gif)
+![alt text](https://media4.giphy.com/media/XQMONMuL9ms7dpVpfZ/giphy.gif?cid=790b76115d6d0a1a4ec92a7f237ef9dc7bc3c11c607bb082&rid=giphy.gif)
 
 ![alt text](https://www.spigotmc.org/attachments/bypass2-png.642719/)
 
