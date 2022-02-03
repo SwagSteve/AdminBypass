@@ -11,4 +11,6 @@
 ![alt text](https://www.spigotmc.org/attachments/bypass2-png.642719/)
 
 ###### The Way To Bypass This Is To Either Have The Player As An OP, Or Grant Them The Permission: **"adminbypass.bypass"** With Your Favourite Permissions Plugin!
+
+
 ###### This has only been tested for 1.16.5, Other versions haven't been tested and aren't guaranteed to work.
