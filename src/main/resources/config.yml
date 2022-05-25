@@ -1,0 +1,5 @@
+Options:
+  # Enable-Join-Bypass-Message - Enables the custom-set message to players when they bypass the max count, message configurable below.
+  Enable-Join-Bypass-Message: true
+  # Join-Bypass-Message - Custom message to send to players who bypassed. Color Codes Supported As: &a, &c, etc. Placeholders: "%online%" = online player count, "%maxcount% = max server player count".
+  Join-Bypass-Message: "&a&lYou Bypassed The Max Player Count! &r&online%/%maxcount%"
